@@ -16,7 +16,7 @@ function happyCustomHolidayTo(holy,name)
   return (`Happy ${holy}, ${name}!`)
 }
 
-function holidayCountdown(holyname,num)
+function holidayCountdown(holy,num)
 {
-  return (`It's ${num} days until ${holyname}!`)
+  return (`It's ${num} days until ${holy}!`)
 }

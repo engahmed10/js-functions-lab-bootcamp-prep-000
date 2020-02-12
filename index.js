@@ -4,6 +4,11 @@ console.log("My birthday is " + date)
 onsole.log(`My birthday is ${date}`)
 console.log(`I have ${1 + 1} pets`)
 console.log("I have " + 1 + 1 + " pets")
+///########################
+function happyHolidays()
+{
+  return "Happy holidays!"
+}
 function happyHolidays()
 {
   return "Happy holidays!"
